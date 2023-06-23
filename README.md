@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itzmrx
+- 👋 Hi, I’m @itzsoham
 - 👀 I’m interested in coding and gaming stuff. How to make them and do changes.
 - 🌱 I’m currently learning programming languages and how to build web, apps, os, etc.
 - 💞️ I’m looking to collaborate on anything u prefer.
