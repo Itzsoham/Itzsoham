@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything u prefer.
 - 📫 How to reach me text me on insta at @meizk1ng.
 
-- <h1>hehe</h1>
+
 
 <!---
 itzmrx/itzmrx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
