@@ -11,8 +11,7 @@
 
 - ♥️Reach me: **[SOHAM](https://instagram/meizk1ng)**
 - ♥️Projects: [Click Here](https://github.com/Itzsoham/PROJECTS)
-- ♥️Fun fact: 
-**I am better XD**
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzsoham&show_icons=true&locale=en&layout=compact" alt="itzsoham"/>
 
 
