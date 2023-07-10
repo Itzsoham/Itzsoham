@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Itzsoham&label=Profile%20views&color=0e75b6&style=flat" alt="itzk1ng" /> </p>
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzsoham&show_icons=true&locale=en&layout=compact" alt="itzsoham"/>
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzsoham&show_icons=true&locale=en&layout=compact" alt="itzsoham"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
