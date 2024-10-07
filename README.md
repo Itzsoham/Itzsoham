@@ -13,7 +13,7 @@
 
 -  **☆ Reach me** : **[My Instagram](https://www.instagram.com/meizk1ng/)** , **[Linkedin](https://www.linkedin.com/in/sohammaury/)**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzsoham&show_icons=true&locale=en&layout=compact" alt="itzsoham"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzsoham&show_icons=true&locale=en&layout=compact" alt="itzsoham"/>
 
 
 
