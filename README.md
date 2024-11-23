@@ -1,9 +1,4 @@
-<div align="center">
-  <h1>Creativity Is Just Intelligence Having Fun</h1>
-  <h3> A cool developer who makes cool stuff 😎</h3>
-</div>
-
----
+<h1>Creativity Is Just Intelligence Having Fun</h1>
 
 ### 👨‍💻 **About Me**
 
