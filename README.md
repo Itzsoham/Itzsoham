@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **sohammaury@gmail.com**
 
-- 💻 Check out some of my pojects : **[RoyalStay](https://royal-stay.vercel.app/), [PizzaClub](https://pizza--club.vercel.app/), [Portfolio](https://bento.ne/itzsoham)**
+- 💻 Check out some of my pojects : **[RoyalStay](https://royal-stay.vercel.app/), [PizzaClub](https://pizza--club.vercel.app/), [Portfolio](https://bento.me/itzsoham)**
 
 - ⚡ Fun Fact: I conquer bugs like kingdoms and turn ideas into imperial designs. ⚔️🛡️
 
